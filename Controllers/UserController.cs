@@ -65,7 +65,7 @@ public class UserController : ControllerBase
             "',  [Email] = '" + user.Email +
             "',  [Gender] = '" + user.Gender +
             "',  [Active] = '" + user.Active + "' " +
-            "WHERE UserId = " + user.UserID + ";";
+            "WHERE UserId = " + user.UserId + ";";
         Console.WriteLine(sql);
         if (_dapper.ExecuteSql(sql))
         {
