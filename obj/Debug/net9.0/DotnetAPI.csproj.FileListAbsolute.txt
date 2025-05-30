@@ -85,3 +85,4 @@ C:\Users\rafid\Desktop\Code\C# Projects\dotnet-course-code\DotnetAPI\bin\Debug\n
 C:\Users\rafid\Desktop\Code\C# Projects\dotnet-course-code\DotnetAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\rafid\Desktop\Code\C# Projects\dotnet-course-code\DotnetAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
 C:\Users\rafid\Desktop\Code\C# Projects\dotnet-course-code\DotnetAPI\obj\Debug\net9.0\DotnetAPI.sourcelink.json
+C:\Users\rafid\Desktop\Code\C# Projects\dotnet-course-code\DotnetAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
